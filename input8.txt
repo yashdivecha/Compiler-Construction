@@ -1,0 +1,3 @@
+main() {
+float x; x = 1.2; printvar x;
+}

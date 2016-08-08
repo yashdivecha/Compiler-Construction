@@ -1,0 +1,1 @@
+main() {printvar 1 + 2;}
